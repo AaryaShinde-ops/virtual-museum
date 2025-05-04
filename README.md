@@ -1,4 +1,4 @@
-# Virtual Museum (2019)
+# Virtual Museum 
 
 A museum of graphics rendering techniques by Peter Gagliardi
 
@@ -229,47 +229,7 @@ Fragment Shaders:
 
 ## Special Thanks
 
-I would like to thank Professor Breen for letting me do this Honors Option
-project and for taking the time to discuss the progress throughout the term!
+I would like to thank Professor for letting me do this Minors degree
+project.
 
-I would also like to thank some of my friends for testing my project
-in advance and providing useful feedback along the way!
-
-* Khanh N. -- First one to note the lag in the Julia sphere room, and provided 
-    feedback on choices of colors for some of the exhibits.
-* Zacharia T. -- Provided detailed feedback at each major revision
-* Ashley C. -- Provided feedback on how to light the super seashell room 
-    properly.
-* Royce R. -- Informed me my FOV was a bit cramped.
-
-## Annotated Bibliography
-
-* Ashlock, Dan and Blakenship, Liz. [Cosine coloring](http://eldar.mathstat.uoguelph.ca/dashlock/ftax/CosineCol.html)
-    part of the website ["An Algorithmic taxonomy of fractals"](http://eldar.mathstat.uoguelph.ca/dashlock/ftax/index.html)
-    -- This method of coloring Mandelbrot and Julia sets was used for part of
-    the Julia sphere exhibit. The article in turn credits Clifford Pickover's
-    website for the idea.
-* Barnsley, M. F. *Fractals Everywhere* 2nd ed. Elsevier, 1993 -- This book is
-    a wonderful reference when it comes to all sorts of iterated function
-    system fractals, including Julia sets.
-* Barr, Alan H. [Global and local deformations of solid primitives](https://dl.acm.org/citation.cfm?id=808573).
-    Proceedings of SIGGRAPH 1984, ACM SIGGRAPH 1984, pp. 21-30.
-    -- this paper about making interesting shapes by transforming primitives 
-    is discussed in the above section about superseashells. However, it was
-    not used for anything in this project.
-* Haugo, Simen. [Raymarching Distance Fields](http://9bitscience.blogspot.com/2013/07/raymarching-distance-fields_14.html)
-    -- one of the sites I refer to when recalling details about raymarching
-* Quílez, Íñigo. [distance functions](http://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm)
-    2008.
-    -- this was a helpful reference for designing both raymarched scenes.
-* Quílez, Íñigo. [palettes](http://www.iquilezles.org/www/articles/palettes/palettes.htm)
-    1999.
-    -- Cosine color palettes, not to be confused with the cosine coloring method
-    mentioned above for Julia sets. This is my go-to for nice color palettes
-    when writing shaders.
-* Rost, Randi J. and Licea-Kane, Bill. *OpenGl Shading Language* 3rd Edition. 
-    Addison Wesley, 2010 -- This textbook on GLSL inspired the mirror sphere
-    shader and many many more ideas I didn't have time to include in this
-    project.
-* Wong, Jamie. [Ray Marching and Signed Distance Functions](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
-    -- Another site I reference when working on raymarched scenes.
+And my cat for no sitting on my laptop or bitting me during the work.
